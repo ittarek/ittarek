@@ -1,5 +1,5 @@
 # Hi there 👋, I Am Md Tariqul Islam
-## Web developer with MERN
+## Web developer with React.js and MERN Stack
 ![Web developer with MERN](https://media.licdn.com/dms/image/D5603AQHseqtAMRDapQ/profile-displayphoto-shrink_200_200/0/1690691547582?e=1696464000&v=beta&t=aDbqkoqyPwD0oilVW4ifb7Srg1l-FFkxZlHJnWh5i5Y)
 
 "Assalamu Alaikum,  I am a positive, qualified web developer, often for 2 years, with different skills. , I have developed qualities and attributes that guarantee I will perform highly in this role. I have recently completed a course and have extensive experience working as part of a team on often time-sensitive, challenging web development projects requiring outstanding creative and technical skills and Require the ability to ensure all work is optimized across a wide range of platforms. I took my job as a web developer seriously. And I always make sure to keep my skills up to date in this fast-changing industry. If you consider me as a web developer for your company I can assure you that I will fit into your company quickly.  I will always put the commercial needs of your business first in everything I do, and I hope that working with you will be consistent."
