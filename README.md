@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Tariquls Islam</h1>
+<h1 align="center">Hi 👋, I'm MD Tariqul Islam</h1>
 <h3 align="center">Web developer with React.js and MERN Stack From Bangladesh</h3>
 
 "Assalamu Alaikum,  I am a positive, qualified web developer, often for 2 years, with different skills. , I have developed qualities and attributes that guarantee I will perform highly in this role. I have recently completed a course and have extensive experience working as part of a team on often time-sensitive, challenging web development projects requiring outstanding creative and technical skills and the ability to ensure all work is optimized across a wide range of platforms. I took my job as a web developer seriously. And I always make sure to keep my skills up to date in this fast-changing industry. If you consider me as a web developer for your company, I can assure you that I will be able to fit into your company quickly.  I will always put the commercial needs of your business first in everything I do, and I hope that working with you will be consistent."
