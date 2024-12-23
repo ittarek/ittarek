@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT.js**
 
-- 👨‍💻 All of my projects are available at [https://effortless-granita-d447d1.netlify.app/](https://effortless-granita-d447d1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://effortless-granita-d447d1.netlify.app/](https://tareq.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript , react.js**
 
