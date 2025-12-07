@@ -1,7 +1,44 @@
 <h1 align="center">Hi 👋, I'm MD Tariqul Islam</h1>
 <h3 align="center">Web developer with React.js and MERN Stack From Bangladesh</h3>
 
-"Assalamu Alaikum,  I am a positive, qualified web developer, often for 2 years, with different skills. , I have developed qualities and attributes that guarantee I will perform highly in this role. I have recently completed a course and have extensive experience working as part of a team on often time-sensitive, challenging web development projects requiring outstanding creative and technical skills and the ability to ensure all work is optimized across a wide range of platforms. I took my job as a web developer seriously. And I always make sure to keep my skills up to date in this fast-changing industry. If you consider me as a web developer for your company, I can assure you that I will be able to fit into your company quickly.  I will always put the commercial needs of your business first in everything I do, and I hope that working with you will be consistent."
+Frontend-focused Software Developer with 1 year of experience across India and the UAE. Skilled in building responsive, high-performance web applications using React.js, Next.js, and the MERN stack. Strong in component-based architecture, API integration, Redux state management, and modern UI/UX practices. Proven ability to collaborate in cross-functional teams and deliver clean, maintainable code.
+
+I completed a course in programming Hero. The name of this course is Complete Web Development with Jhankar Mahabob.  I also like programming, although I am a commerce background student, but I very, very much love Tech. I am a positive, qualified web developer, often for 2 years, with different skills. I have developed qualities and attributes that guarantee I will perform highly in this role. I have recently completed a course and have extensive experience working as part of a team on often time-sensitive, challenging web development projects requiring outstanding creative and technical skills and the ability to ensure all work is optimized across a wide range of platforms. I took my job as a web developer seriously. And I always make sure to keep my skills up to date in this fast-changing industry.
+
+Working as a professional full-stack web developer expert since 2022, and have completed over 20+ projects for 25+ clients at various marketplaces.
+
+==================
+Skill set (Web development/Front-end/back-end/MERN-stack/React.js expertise)
+==================
+ Business website creation
+ Personal React website (front-end/back-end)
+ Custom JavaScript designed
+ Figma to HTML AND React.js
+ Figma to Tailwind
+ Figma to Bootstrap5
+ Landing page
+ Product service-based landing page
+ PSD to HTML
+ Responsive website
+ Html5, Css3, Bootstarp5 , Tailwind, javascritpt(es6) Bug/Error Fixing
+ CSS framework UI (DaisyUi, MUI, Ant design)
+ Login form, sign-in, and sign-up page creation
+ Contact Us form/social button and social sharing
+ Maintain your site for 6 months, follow up on malware, speed, and content edit issues
+ React signup page
+ Firebase authentication
+ Database add MongoDB
+ Create a responsive business website using Bootstrap 5 grid, Tailwind grid, and CSS media query system
+ Swiper.js carousel and slider
+ Web expertise to create and website and web applications
+
+===============Language=================
+Javascript(es6), HTML5,CSS3, Bootsrap5, Tailwind, React.js Express.js node.js
+
+
+Thanks
+Md Tariqul Islam
+Front-end developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ittarek&label=Profile%20views&color=0e75b6&style=flat" alt="ittarek" /> </p>
 
