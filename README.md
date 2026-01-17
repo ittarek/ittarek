@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ittarek&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 <h1 align="center">Hi 👋, I'm MD Tariqul Islam</h1>
 <h3 align="center">Web developer with React.js and MERN Stack From Bangladesh</h3>
 
