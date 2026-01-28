@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tareq.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tariqul-islam-ab42b61a1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ittarek551@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1up0abrVMzRYHHK_Cz5pXdqtrohpyN_7g/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1-fKpAA8b0LoLpb05KTwZaHEVC2ZfECop/view)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ittarek&label=Profile%20views&color=0e75b6&style=flat)
 
